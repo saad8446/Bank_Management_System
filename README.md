@@ -13,6 +13,7 @@ Features
 - View transaction history
 - Delete account
 - Menu-driven interface
+- Json File handling
 
 Technologies Used
 
@@ -22,7 +23,7 @@ Technologies Used
 - Lists
 - Functions
 - Loops and Conditional Statements
-- File Handling (JSON support will be added in future updates)
+- File Handling (JSON support)
 
 Learning Outcomes
 
@@ -34,12 +35,6 @@ This project helped me practice:
 - Designing a medium-sized Python application
 - Writing reusable and modular code
 - Problem-solving and debugging
-
-Future Improvements
-
-- Store account data using JSON
-- Split the project into multiple Python files
-- Add exception handling for invalid input
 
 How to Run
 
