@@ -37,12 +37,12 @@ while True:
                 if account_choice == 1:
 
                     amount = float(input("Enter amount to deposit: "))
-                    account.deposit(amount)
+                    bank.deposit(account, amount)
 
                 elif account_choice == 2:
 
                     amount = float(input("Enter amount to withdraw: "))
-                    account.withdraw(amount)
+                    bank.withdraw(account, amount)
 
                 elif account_choice == 3:
 
@@ -56,7 +56,7 @@ while True:
 
                     amount = float(input("Enter amount to transfer: "))
 
-                    account.transfer(to_account, amount)
+                    bank.transfer(account, to_account, amount)
 
                 elif account_choice == 4:
 

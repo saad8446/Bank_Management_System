@@ -1,0 +1,11 @@
+{
+    "1122": {
+        "customer_name": "ali",
+        "pin": "1234",
+        "balance": 8000.0,
+        "transactions": [
+            "Deposited: 10000.0",
+            "Withdrawn: 2000.0"
+        ]
+    }
+}
